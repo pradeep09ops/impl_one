@@ -1,0 +1,2 @@
+This repository contains terraform code to spin-up three virtual machines with the vm names allocated dynamically and install ansible on one of the virtual machines
+making it the master node and develop ansible playbooks to install nginx web server on the other two virtual machines.
